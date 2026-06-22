@@ -20,7 +20,23 @@ Current synchronized progress:
 ## Language
 
 - Teach the lesson in English.
-- Explanations can include Chinese support only when Richard asks.
+- For key technical terms, always provide English + Chinese.
+- Explanations can include Chinese support when it helps Richard understand the concept more directly.
+
+## Key Technical Terms Rule
+
+Each lesson must include a section called:
+
+`Key technical terms (English + Chinese)`
+
+For important terms, show them like this:
+
+- Gradient: 梯度
+- Chain Rule: 链式法则
+- Partial Derivative: 偏导数
+- Loss Function: 损失函数
+
+The goal is to help Richard build intuitive understanding through both English and Chinese terms.
 
 ## Teaching Style
 
@@ -47,13 +63,14 @@ Each lesson should include:
 
 1. Simple real-life example
 2. Concrete numerical example
-3. Symbol explanation
-4. Formula explanation
-5. Step-by-step calculation
-6. Machine learning connection
-7. Practical tips
-8. 2-3 tiny practice questions
-9. Answers and explanations
+3. Key technical terms (English + Chinese)
+4. Symbol explanation
+5. Formula explanation
+6. Step-by-step calculation
+7. Machine learning connection
+8. Practical tips
+9. 2-3 tiny practice questions
+10. Answers and explanations
 
 ## GitHub Update Rule
 
