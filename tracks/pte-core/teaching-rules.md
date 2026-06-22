@@ -30,6 +30,15 @@ For each writing lesson:
 8. Show a corrected version of Richard's answer.
 9. Show a model answer.
 10. Give 3 useful sentence patterns to remember.
+11. Save the full practice record to GitHub.
+
+## Practice Record Rule
+
+Every completed writing practice must be saved under:
+
+`tracks/pte-core/answer-records/`
+
+Each record must save the question, Richard's answer, score, correction, model answer, useful patterns, and next action.
 
 ## Writing Skills To Train
 
