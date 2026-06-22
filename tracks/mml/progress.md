@@ -6,20 +6,20 @@ Current Part:
 Calculus / Optimization
 
 Current Lesson:
-19. Taylor Series
+20. Optimization
 
 Status:
 Ready For Next Lesson
 
 Last Completed Lesson:
-18. Chain Rule
-
-Next Lesson:
 19. Taylor Series
 
+Next Lesson:
+20. Optimization
+
 Correction Note:
-- Lesson 18 Chain Rule completed.
-- Next lesson should start from Taylor Series.
+- Lesson 19 Taylor Series completed.
+- Next lesson should start from Optimization.
 
 Teacher Notes:
 - User prefers mathematical meaning before formalism.
