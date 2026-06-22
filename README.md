@@ -1,38 +1,34 @@
 # AI Learning Roadmap
 
-This repository is used as a persistent learning system for AI-assisted tutoring.
+This repository is a persistent learning system for AI-assisted tutoring.
 
-The purpose is simple:
+## Active Tracks
 
-1. Keep the curriculum in GitHub.
-2. Keep the current learning progress in GitHub.
-3. Let the AI tutor read the progress before each lesson.
-4. Let the AI tutor update the progress after each lesson.
-5. Make learning traceable through commits.
+- Mathematics for Machine Learning: `tracks/mml/`
+- CLRS: `tracks/clrs/`
+- Database Systems: `tracks/database-systems/`
+- PTE Core: `tracks/pte-core/`
+- English: `tracks/english/`
 
-## Current Main Track
+## Track Structure
 
-- Mathematics for Machine Learning
+Each track keeps:
 
-## Workflow
+- `progress.md`
+- `lesson-notes/`
+- `daily-log/`
+- `weekly-review/`
 
-When Richard says: `continue MML lesson`, the tutor should:
+Some tracks also have `curriculum.md`.
 
-1. Read `tracks/mml/progress.md`.
-2. Read `tracks/mml/curriculum.md`.
-3. Find the next lesson.
-4. Teach the lesson in simple English.
-5. Explain symbols, formulas, meaning, usage, and intuition.
-6. Update `tracks/mml/progress.md` after the lesson.
-7. Add or update a lesson note under `tracks/mml/lesson-notes/`.
-8. Commit the update to GitHub.
+## Standard Workflow
+
+When Richard asks to continue a lesson, the tutor should read the track progress, teach the next lesson, save a lesson note, save a daily log, update progress, and commit the changes.
 
 ## Teaching Style
 
-- Use English for the lesson content.
-- Explain like teaching a primary-school student.
-- Go from simple to hard.
-- Always explain mathematical symbols before using them deeply.
-- Connect each formula to machine learning usage.
-- Mention useful algebraic laws or theorems when relevant.
-- Treat mathematics as a language for abstraction, transformation, proof, and modeling.
+- Explain from simple to hard.
+- Explain symbols before formulas.
+- Use primary-school style explanations when needed.
+- Connect ideas to real usage.
+- Mention useful laws, theorems, invariants, or algebraic transformations when relevant.
