@@ -6,21 +6,21 @@ Current Part:
 Calculus / Optimization
 
 Current Lesson:
-17. Gradient / Gradient Descent
+18. Chain Rule
 
 Status:
-In Progress
+Ready For Next Lesson
 
 Last Completed Lesson:
-16. Partial Derivatives
-
-Next Lesson:
 17. Gradient / Gradient Descent
 
+Next Lesson:
+18. Chain Rule
+
 Correction Note:
-- The initial repository state was wrong because it started from Lesson 1 Scalars.
-- Richard has already studied up to Lesson 17, Gradient / Gradient Descent.
-- Future lessons should continue from Gradient / Gradient Descent, not from Scalars.
+- Repository progress synchronized with actual learning progress.
+- Gradient / Gradient Descent has been completed.
+- Next lesson should start from Chain Rule.
 
 Teacher Notes:
 - User prefers mathematical meaning before formalism.
