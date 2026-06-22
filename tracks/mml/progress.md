@@ -6,21 +6,20 @@ Current Part:
 Calculus / Optimization
 
 Current Lesson:
-18. Chain Rule
+19. Taylor Series
 
 Status:
 Ready For Next Lesson
 
 Last Completed Lesson:
-17. Gradient / Gradient Descent
-
-Next Lesson:
 18. Chain Rule
 
+Next Lesson:
+19. Taylor Series
+
 Correction Note:
-- Repository progress synchronized with actual learning progress.
-- Gradient / Gradient Descent has been completed.
-- Next lesson should start from Chain Rule.
+- Lesson 18 Chain Rule completed.
+- Next lesson should start from Taylor Series.
 
 Teacher Notes:
 - User prefers mathematical meaning before formalism.
