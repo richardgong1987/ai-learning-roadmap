@@ -3,22 +3,28 @@
 Student: Richard Zhou
 
 Current Part:
-Linear Algebra
+Calculus / Optimization
 
 Current Lesson:
-1. Scalars
+17. Gradient / Gradient Descent
 
 Status:
-Not Started
+In Progress
 
 Last Completed Lesson:
-None
+16. Partial Derivatives
 
 Next Lesson:
-1. Scalars
+17. Gradient / Gradient Descent
+
+Correction Note:
+- The initial repository state was wrong because it started from Lesson 1 Scalars.
+- Richard has already studied up to Lesson 17, Gradient / Gradient Descent.
+- Future lessons should continue from Gradient / Gradient Descent, not from Scalars.
 
 Teacher Notes:
 - User prefers mathematical meaning before formalism.
 - User prefers algebraic transformations and proofs.
 - User prefers child-level explanations.
 - User wants formulas connected to ML applications.
+- User is building long-term mathematical thinking as the foundation for machine learning.
