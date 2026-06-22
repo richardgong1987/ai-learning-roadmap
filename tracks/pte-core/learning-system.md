@@ -34,14 +34,40 @@ Use them like this:
 
 ## Lesson Execution Workflow
 
-For each PTE Core lesson:
+For each PTE Core writing lesson:
 
 1. Read the required startup files.
 2. Identify the current or next lesson from `progress.md`.
-3. Give the task first.
-4. Wait for Richard's answer.
-5. Only after Richard answers, provide correction, scoring, model answer, and child-level explanation.
-6. Keep the task in real PTE Core style, not IELTS style.
+3. Give one PTE Core-style writing task first.
+4. Show clear exam instructions.
+5. Wait for Richard's answer.
+6. Do not give the model answer before Richard answers.
+7. After Richard answers, provide correction, scoring, model answer, and child-level explanation.
+8. Keep the task in real PTE Core style, not IELTS style.
+
+## Required Answer Record
+
+After Richard submits an answer, create a full answer record under:
+
+`tracks/pte-core/answer-records/`
+
+The answer record must include:
+
+1. Task type
+2. Original question
+3. Exam instructions
+4. Richard's answer
+5. Scoring rubric
+6. Estimated score
+7. Mistake analysis
+8. Corrected version
+9. Model answer
+10. Sentence patterns to remember
+11. Next action
+
+Use this template:
+
+`templates/pte-writing-answer-record-template.md`
 
 ## After-Lesson Update Workflow
 
@@ -49,8 +75,9 @@ After Richard completes the lesson:
 
 1. Update `tracks/pte-core/progress.md`.
 2. Add a lesson note under `tracks/pte-core/lesson-notes/`.
-3. Add or update a daily log under `tracks/pte-core/daily-log/`.
-4. Commit all changes to GitHub.
+3. Add the full answer record under `tracks/pte-core/answer-records/`.
+4. Add or update a daily log under `tracks/pte-core/daily-log/`.
+5. Commit all changes to GitHub.
 
 ## Safety Against Forgetting
 
