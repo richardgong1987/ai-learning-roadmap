@@ -9,16 +9,16 @@ Current Skill:
 Writing
 
 Current Lesson:
-1. Write Email: Task Format
+2. Write Email: Purpose and Tone
 
 Status:
 Active
 
 Last Completed Lesson:
-None
+1. Write Email: Task Format
 
 Next Lesson:
-1. Write Email: Task Format
+2. Write Email: Purpose and Tone
 
 Correction Note:
 - PTE Core learning should prioritize Writing first.
