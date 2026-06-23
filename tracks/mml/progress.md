@@ -3,23 +3,24 @@
 Student: Richard Zhou
 
 Current Part:
-Calculus / Optimization
+Probability
 
 Current Lesson:
-20. Optimization
+21. Random Variables
 
 Status:
 Ready For Next Lesson
 
 Last Completed Lesson:
-19. Taylor Series
-
-Next Lesson:
 20. Optimization
 
+Next Lesson:
+21. Random Variables
+
 Correction Note:
-- Lesson 19 Taylor Series completed.
-- Next lesson should start from Optimization.
+- Lesson 20 Optimization completed.
+- Calculus / Optimization part completed.
+- Next lesson should start from Random Variables.
 
 Teacher Notes:
 - User prefers mathematical meaning before formalism.
@@ -27,3 +28,4 @@ Teacher Notes:
 - User prefers child-level explanations.
 - User wants formulas connected to ML applications.
 - User is building long-term mathematical thinking as the foundation for machine learning.
+- Important: After every completed lesson, update GitHub progress, lesson notes, and daily log according to the learning-system workflow.
