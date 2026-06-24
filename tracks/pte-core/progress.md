@@ -9,16 +9,16 @@ Current Skill:
 Writing
 
 Current Lesson:
-2. Write Email: Purpose and Tone
+3. Write Email: Opening and Closing
 
 Status:
 Active
 
 Last Completed Lesson:
-1. Write Email: Task Format
+2. Write Email: Purpose and Tone
 
 Next Lesson:
-2. Write Email: Purpose and Tone
+3. Write Email: Opening and Closing
 
 Correction Note:
 - PTE Core learning should prioritize Writing first.
