@@ -6,21 +6,21 @@ Current Part:
 Probability
 
 Current Lesson:
-23. Expectation
+24. Variance
 
 Status:
 Ready For Next Lesson
 
 Last Completed Lesson:
-22. Probability Distributions
-
-Next Lesson:
 23. Expectation
 
+Next Lesson:
+24. Variance
+
 Correction Note:
-- Lesson 22 Probability Distributions completed.
-- Probability part should continue with Lesson 23.
-- Next lesson should start from Expectation.
+- Lesson 23 Expectation completed.
+- Probability part should continue with Lesson 24.
+- Next lesson should start from Variance.
 
 Teacher Notes:
 - User prefers mathematical meaning before formalism.
