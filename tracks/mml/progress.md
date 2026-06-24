@@ -6,21 +6,21 @@ Current Part:
 Probability
 
 Current Lesson:
-21. Random Variables
+22. Probability Distributions
 
 Status:
 Ready For Next Lesson
 
 Last Completed Lesson:
-20. Optimization
-
-Next Lesson:
 21. Random Variables
 
+Next Lesson:
+22. Probability Distributions
+
 Correction Note:
-- Lesson 20 Optimization completed.
-- Calculus / Optimization part completed.
-- Next lesson should start from Random Variables.
+- Lesson 21 Random Variables completed.
+- Probability part should continue with Lesson 22.
+- Next lesson should start from Probability Distributions.
 
 Teacher Notes:
 - User prefers mathematical meaning before formalism.
