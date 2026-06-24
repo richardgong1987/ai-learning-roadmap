@@ -6,21 +6,21 @@ Current Part:
 Probability
 
 Current Lesson:
-22. Probability Distributions
+23. Expectation
 
 Status:
 Ready For Next Lesson
 
 Last Completed Lesson:
-21. Random Variables
-
-Next Lesson:
 22. Probability Distributions
 
+Next Lesson:
+23. Expectation
+
 Correction Note:
-- Lesson 21 Random Variables completed.
-- Probability part should continue with Lesson 22.
-- Next lesson should start from Probability Distributions.
+- Lesson 22 Probability Distributions completed.
+- Probability part should continue with Lesson 23.
+- Next lesson should start from Expectation.
 
 Teacher Notes:
 - User prefers mathematical meaning before formalism.
