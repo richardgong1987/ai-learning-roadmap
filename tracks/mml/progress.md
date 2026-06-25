@@ -6,21 +6,21 @@ Current Part:
 Probability
 
 Current Lesson:
-25. Covariance
+26. Bayes Theorem
 
 Status:
 Ready For Next Lesson
 
 Last Completed Lesson:
-24. Variance
-
-Next Lesson:
 25. Covariance
 
+Next Lesson:
+26. Bayes Theorem
+
 Correction Note:
-- Lesson 24 Variance completed.
-- Probability part should continue with Lesson 25.
-- Next lesson should start from Covariance.
+- Lesson 25 Covariance completed.
+- Probability part should continue with Lesson 26.
+- Next lesson should start from Bayes Theorem.
 
 Teacher Notes:
 - User prefers mathematical meaning before formalism.
