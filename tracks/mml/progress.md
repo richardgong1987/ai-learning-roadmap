@@ -6,21 +6,21 @@ Current Part:
 Probability
 
 Current Lesson:
-24. Variance
+25. Covariance
 
 Status:
 Ready For Next Lesson
 
 Last Completed Lesson:
-23. Expectation
-
-Next Lesson:
 24. Variance
 
+Next Lesson:
+25. Covariance
+
 Correction Note:
-- Lesson 23 Expectation completed.
-- Probability part should continue with Lesson 24.
-- Next lesson should start from Variance.
+- Lesson 24 Variance completed.
+- Probability part should continue with Lesson 25.
+- Next lesson should start from Covariance.
 
 Teacher Notes:
 - User prefers mathematical meaning before formalism.
