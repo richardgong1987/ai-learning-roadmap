@@ -3,24 +3,24 @@
 Student: Richard Zhou
 
 Current Part:
-Probability
+Machine Learning Connections
 
 Current Lesson:
-26. Bayes Theorem
+27. Linear Regression
 
 Status:
 Ready For Next Lesson
 
 Last Completed Lesson:
-25. Covariance
-
-Next Lesson:
 26. Bayes Theorem
 
+Next Lesson:
+27. Linear Regression
+
 Correction Note:
-- Lesson 25 Covariance completed.
-- Probability part should continue with Lesson 26.
-- Next lesson should start from Bayes Theorem.
+- Lesson 26 Bayes Theorem completed.
+- Probability part completed.
+- Next lesson should start from Machine Learning Connections, Lesson 27 Linear Regression.
 
 Teacher Notes:
 - User prefers mathematical meaning before formalism.
