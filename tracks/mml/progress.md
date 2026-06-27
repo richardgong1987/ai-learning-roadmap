@@ -6,21 +6,21 @@ Current Part:
 Machine Learning Connections
 
 Current Lesson:
-27. Linear Regression
+28. PCA
 
 Status:
 Ready For Next Lesson
 
 Last Completed Lesson:
-26. Bayes Theorem
-
-Next Lesson:
 27. Linear Regression
 
+Next Lesson:
+28. PCA
+
 Correction Note:
-- Lesson 26 Bayes Theorem completed.
-- Probability part completed.
-- Next lesson should start from Machine Learning Connections, Lesson 27 Linear Regression.
+- Lesson 27 Linear Regression completed.
+- Machine Learning Connections part should continue with Lesson 28.
+- Next lesson should start from PCA.
 
 Teacher Notes:
 - User prefers mathematical meaning before formalism.
