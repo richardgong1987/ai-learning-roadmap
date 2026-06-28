@@ -15,13 +15,13 @@ Current Part:
 Theory
 
 Current Lesson:
-3. What Makes Optimization Convex
+4. Convex Sets
 
 Last Completed Lesson:
-2. Least Squares and Linear Programming
+3. What Makes Optimization Convex
 
 Next Lesson:
-3. What Makes Optimization Convex
+4. Convex Sets
 
 Course Goal:
 Develop a working knowledge of convex optimization, including the ability to recognize, formulate, analyze, and solve convex optimization problems.
@@ -39,4 +39,5 @@ Teacher Notes:
 Completion Notes:
 - Lesson 1 completed on 2026-06-28.
 - Lesson 2 completed on 2026-06-28.
-- Next lesson should start from Lesson 3: What Makes Optimization Convex.
+- Lesson 3 completed on 2026-06-28.
+- Next lesson should start from Lesson 4: Convex Sets.
