@@ -6,21 +6,21 @@ Current Part:
 Machine Learning Connections
 
 Current Lesson:
-30. Neural Networks
+MML Track Completed
 
 Status:
-Ready For Next Lesson
+Completed
 
 Last Completed Lesson:
-29. Gradient Descent
-
-Next Lesson:
 30. Neural Networks
 
+Next Lesson:
+None. Mathematics for Machine Learning track completed.
+
 Correction Note:
-- Lesson 29 Gradient Descent completed.
-- Machine Learning Connections part should continue with Lesson 30.
-- Next lesson should start from Neural Networks.
+- Lesson 30 Neural Networks completed.
+- Machine Learning Connections part completed.
+- Mathematics for Machine Learning track completed.
 
 Teacher Notes:
 - User prefers mathematical meaning before formalism.
