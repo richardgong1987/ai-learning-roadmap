@@ -6,21 +6,21 @@ Current Part:
 Machine Learning Connections
 
 Current Lesson:
-29. Gradient Descent
+30. Neural Networks
 
 Status:
 Ready For Next Lesson
 
 Last Completed Lesson:
-28. PCA
-
-Next Lesson:
 29. Gradient Descent
 
+Next Lesson:
+30. Neural Networks
+
 Correction Note:
-- Lesson 28 PCA completed.
-- Machine Learning Connections part should continue with Lesson 29.
-- Next lesson should start from Gradient Descent.
+- Lesson 29 Gradient Descent completed.
+- Machine Learning Connections part should continue with Lesson 30.
+- Next lesson should start from Neural Networks.
 
 Teacher Notes:
 - User prefers mathematical meaning before formalism.
