@@ -6,21 +6,21 @@ Current Part:
 Machine Learning Connections
 
 Current Lesson:
-28. PCA
+29. Gradient Descent
 
 Status:
 Ready For Next Lesson
 
 Last Completed Lesson:
-27. Linear Regression
-
-Next Lesson:
 28. PCA
 
+Next Lesson:
+29. Gradient Descent
+
 Correction Note:
-- Lesson 27 Linear Regression completed.
-- Machine Learning Connections part should continue with Lesson 28.
-- Next lesson should start from PCA.
+- Lesson 28 PCA completed.
+- Machine Learning Connections part should continue with Lesson 29.
+- Next lesson should start from Gradient Descent.
 
 Teacher Notes:
 - User prefers mathematical meaning before formalism.
