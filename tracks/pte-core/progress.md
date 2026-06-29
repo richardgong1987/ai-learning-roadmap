@@ -9,19 +9,19 @@ Current Skill:
 Writing
 
 Current Lesson:
-5. Write Email: Time Control
+6. Summarize Written Text: One-Sentence Summary
 
 Status:
 Active
 
 Last Completed Lesson:
-3. Write Email: Opening and Closing
+5. Write Email: Time Control
 
 Skipped Lesson:
 4. Write Email: Request / Complaint / Apology
 
 Next Lesson:
-5. Write Email: Time Control
+6. Summarize Written Text: One-Sentence Summary
 
 Correction Note:
 - PTE Core learning should prioritize Writing first.
@@ -30,7 +30,8 @@ Correction Note:
 
 Progress Note:
 - Lesson 4 was skipped by Richard's request on 2026-06-29 without an answer submission.
-- Continue with Lesson 5: Write Email: Time Control.
+- Lesson 5 was completed on 2026-06-29.
+- Continue with Lesson 6: Summarize Written Text: One-Sentence Summary.
 
 Teacher Notes:
 - Use PTE Core style only.
