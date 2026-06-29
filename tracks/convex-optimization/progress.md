@@ -15,13 +15,13 @@ Current Part:
 Theory
 
 Current Lesson:
-4. Convex Sets
+5. Important Convex Set Examples
 
 Last Completed Lesson:
-3. What Makes Optimization Convex
+4. Convex Sets
 
 Next Lesson:
-4. Convex Sets
+5. Important Convex Set Examples
 
 Course Goal:
 Develop a working knowledge of convex optimization, including the ability to recognize, formulate, analyze, and solve convex optimization problems.
@@ -40,4 +40,5 @@ Completion Notes:
 - Lesson 1 completed on 2026-06-28.
 - Lesson 2 completed on 2026-06-28.
 - Lesson 3 completed on 2026-06-28.
-- Next lesson should start from Lesson 4: Convex Sets.
+- Lesson 4 completed on 2026-06-29.
+- Next lesson should start from Lesson 5: Important Convex Set Examples.
