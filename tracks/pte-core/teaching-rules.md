@@ -41,6 +41,42 @@ Full practice should preserve these exam-like features:
 
 The goal is not to make the lesson easy. The goal is to prepare Richard for the actual exam.
 
+## Difficulty Target Rule
+
+Default full practice should be official-format practice with equal or slightly higher difficulty than the actual PTE Core exam.
+
+Difficulty target:
+
+- Normal full practice: about the same difficulty as official-format practice.
+- Challenge practice: slightly harder than official-format practice.
+- Do not make full practice easier than official-format practice unless Richard explicitly asks for a micro-drill.
+
+Make practice harder in useful ways:
+
+- Use denser passages with more information to filter.
+- Use more paraphrasing instead of repeating exact words from the passage.
+- Use stronger distractors in reading questions.
+- Make the main idea clear but not immediately obvious.
+- Include causes, effects, contrasts, examples, and less important details.
+- Keep realistic time pressure and word-count pressure.
+
+Do not make practice harder in bad ways:
+
+- Do not use obscure specialist knowledge that is unrelated to English ability.
+- Do not use unnatural vocabulary just to make the task look difficult.
+- Do not create ambiguous questions with more than one defensible answer.
+- Do not make grammar confusing on purpose.
+- Do not turn PTE Core practice into IELTS, TOEFL, GRE, or academic essay training.
+
+Task-specific challenge settings:
+
+- Summarize Written Text: use 350-500 English words for challenge practice, with a main idea, supporting details, and some details that should be ignored.
+- Reading Multiple Choice: use 400-650 English words for challenge practice, with close answer options and paraphrased distractors.
+- Reading Fill in the Blanks: test collocation, grammar, logical connection, and meaning, not only single-word vocabulary.
+- Re-order Paragraphs: use real discourse flow with connectors, pronoun references, cause-effect links, and contrast links.
+
+After Richard struggles, the explanation can be simple, but the next full practice should still remain official-format or slightly harder.
+
 ## Authentic Practice Difficulty Rule
 
 Practice must not be toy practice.
