@@ -1,6 +1,12 @@
 # PTE Core Curriculum
 
-This curriculum is writing-first because Richard's highest current priority is immigration English output.
+This curriculum is writing-first because Richard's current priority is practical English output.
+
+## Global Practice Standard
+
+All lessons must follow `tracks/pte-core/teaching-rules.md`.
+
+Practice should be exam-realistic, not toy examples. For Summarize Written Text, Reading, and any task based on a source passage, the source text should normally be at least 300 English words. Short texts are allowed only when clearly labelled as micro-drills, and they should not replace full exam-style practice.
 
 ## Phase 1 - Writing First
 
