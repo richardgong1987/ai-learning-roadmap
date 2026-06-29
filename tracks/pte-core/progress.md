@@ -38,6 +38,7 @@ Teacher Notes:
 - Always follow `tracks/pte-core/teaching-rules.md` before creating a lesson or practice task.
 - Use PTE Core style only.
 - Align practice with official PTE Core task format and difficulty whenever possible.
+- Default full practice should be equal to or slightly harder than official-format PTE Core practice.
 - Do not freely invent easy simplified tasks.
 - If a generated task is used, label it as `Exam-style adapted practice`.
 - Question first.
