@@ -37,6 +37,9 @@ Progress Note:
 Teacher Notes:
 - Always follow `tracks/pte-core/teaching-rules.md` before creating a lesson or practice task.
 - Use PTE Core style only.
+- Align practice with official PTE Core task format and difficulty whenever possible.
+- Do not freely invent easy simplified tasks.
+- If a generated task is used, label it as `Exam-style adapted practice`.
 - Question first.
 - Student answers first.
 - Model answer afterwards.
