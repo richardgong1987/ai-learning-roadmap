@@ -9,19 +9,19 @@ Current Skill:
 Writing
 
 Current Lesson:
-8. Summarize Written Text: Grammar Compression
+9. Writing Mixed Practice
 
 Status:
 Active
 
 Last Completed Lesson:
-7. Summarize Written Text: Main Idea
+8. Summarize Written Text: Grammar Compression
 
 Skipped Lesson:
 4. Write Email: Request / Complaint / Apology
 
 Next Lesson:
-8. Summarize Written Text: Grammar Compression
+9. Writing Mixed Practice
 
 Correction Note:
 - PTE Core learning should prioritize Writing first.
@@ -33,17 +33,13 @@ Progress Note:
 - Lesson 5 was completed on 2026-06-29.
 - Lesson 6 was completed on 2026-06-29.
 - Lesson 7 was completed on 2026-06-29.
-- Continue with Lesson 8: Summarize Written Text: Grammar Compression.
+- Lesson 8 was completed on 2026-06-30.
+- Continue with Lesson 9: Writing Mixed Practice.
 
 Teacher Notes:
 - Follow `tracks/pte-core/teaching-rules.md` before creating a lesson or practice task.
 - Use PTE Core style only.
-- Align practice with official PTE Core task format and difficulty whenever possible.
-- Default full practice should be equal to or slightly harder than official-format PTE Core practice.
-- Label generated practice as `Exam-style adapted practice`.
 - Question first.
 - Student answers first.
 - Model answer afterwards.
 - Explain like teaching a child.
-- Avoid IELTS-style writing prompts.
-- For Summarize Written Text, Reading, or any source-text-based practice, use at least 300 English words unless clearly labelled as a micro-drill.
