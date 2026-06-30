@@ -9,19 +9,19 @@ Current Skill:
 Writing
 
 Current Lesson:
-9. Writing Mixed Practice
+10. Writing Mock Test
 
 Status:
 Active
 
 Last Completed Lesson:
-8. Summarize Written Text: Grammar Compression
+9. Writing Mixed Practice
 
 Skipped Lesson:
 4. Write Email: Request / Complaint / Apology
 
 Next Lesson:
-9. Writing Mixed Practice
+10. Writing Mock Test
 
 Correction Note:
 - PTE Core learning should prioritize Writing first.
@@ -34,7 +34,8 @@ Progress Note:
 - Lesson 6 was completed on 2026-06-29.
 - Lesson 7 was completed on 2026-06-29.
 - Lesson 8 was completed on 2026-06-30.
-- Continue with Lesson 9: Writing Mixed Practice.
+- Lesson 9 was completed on 2026-06-30.
+- Continue with Lesson 10: Writing Mock Test.
 
 Teacher Notes:
 - Follow `tracks/pte-core/teaching-rules.md` before creating a lesson or practice task.
