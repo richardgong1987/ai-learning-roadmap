@@ -6,7 +6,7 @@ Course Name:
 Convex Optimization
 
 Primary Textbook:
-Convex Optimization by Stephen Boyd and Lievenberghe
+Convex Optimization by Stephen Boyd and Lieven Vandenberghe
 
 Status:
 In Progress
@@ -15,13 +15,13 @@ Current Part:
 Theory
 
 Current Lesson:
-6. Operations That Preserve Convexity
+7. Convex Functions
 
 Last Completed Lesson:
-5. Important Convex Set Examples
+6. Operations That Preserve Convexity
 
 Next Lesson:
-6. Operations That Preserve Convexity
+7. Convex Functions
 
 Course Goal:
 Develop a working knowledge of convex optimization, including the ability to recognize, formulate, analyze, and solve convex optimization problems.
@@ -42,4 +42,5 @@ Completion Notes:
 - Lesson 3 completed on 2026-06-28.
 - Lesson 4 completed on 2026-06-29.
 - Lesson 5 completed on 2026-06-30.
-- Next lesson should start from Lesson 6: Operations That Preserve Convexity.
+- Lesson 6 completed on 2026-06-30.
+- Next lesson should start from Lesson 7: Convex Functions.
