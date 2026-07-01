@@ -15,13 +15,13 @@ Current Part:
 Theory
 
 Current Lesson:
-7. Convex Functions
+8. Operations That Preserve Function Convexity
 
 Last Completed Lesson:
-6. Operations That Preserve Convexity
+7. Convex Functions
 
 Next Lesson:
-7. Convex Functions
+8. Operations That Preserve Function Convexity
 
 Course Goal:
 Develop a working knowledge of convex optimization, including the ability to recognize, formulate, analyze, and solve convex optimization problems.
@@ -43,4 +43,5 @@ Completion Notes:
 - Lesson 4 completed on 2026-06-29.
 - Lesson 5 completed on 2026-06-30.
 - Lesson 6 completed on 2026-06-30.
-- Next lesson should start from Lesson 7: Convex Functions.
+- Lesson 7 completed on 2026-07-01.
+- Next lesson should start from Lesson 8: Operations That Preserve Function Convexity.
