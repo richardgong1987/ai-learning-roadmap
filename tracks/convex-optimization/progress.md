@@ -15,13 +15,13 @@ Current Part:
 Theory
 
 Current Lesson:
-12. Quadratic Optimization Problems
+13. Geometric Programming
 
 Last Completed Lesson:
-11. Linear Optimization Problems
+12. Quadratic Optimization Problems
 
 Next Lesson:
-12. Quadratic Optimization Problems
+13. Geometric Programming
 
 Course Goal:
 Develop a working knowledge of convex optimization, including the ability to recognize, formulate, analyze, and solve convex optimization problems.
@@ -48,4 +48,5 @@ Completion Notes:
 - Lesson 9 completed on 2026-07-07.
 - Lesson 10 completed on 2026-07-09.
 - Lesson 11 completed on 2026-07-21.
-- Next lesson should start from Lesson 12: Quadratic Optimization Problems.
+- Lesson 12 completed on 2026-07-21.
+- Next lesson should start from Lesson 13: Geometric Programming.
